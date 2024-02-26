@@ -52,7 +52,7 @@ RUNNING THE CODE:
 
 2) In a terminal, cd into the directory that now contains the data and the script
 
-3) In joinState.sql, change the file path on lines 65 and 66 from "/home/jwkern/Downloads/" to point to your local directory containing people_data.csv and debt_data.csv
+3) In monthlyPayments.sql, change the file path on lines 65 and 66 from "/home/jwkern/Downloads/" to point to your local directory containing people_data.csv and debt_data.csv
 
 4) Run the script by typing the following into the command line:
 
