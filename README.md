@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________
 GENERAL DESCRIPTION:
-This SQL script has a master data base of contact information for customers which is joined with a data base of customers who have financial loans. The script then calculates the monthly payment of these loans for each customer. 
+This SQL script has a master data base of contact information for customers which is joined with a data base of customers who have financial loans. The script then calculates the monthly payment of these loans for each customer. Currently, hard coded for loan length of 5 years. Needs updating. 
 
 ___________________________________________________________________________________________________________________________________________________________________
 DATA DESCRIPTION:
